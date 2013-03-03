@@ -1,4 +1,3 @@
-pda
-===
+#Python for Data Analysis Tutorial Resources
 
-Python for Data Analysis
+Will include datasets and ipython notebooks
